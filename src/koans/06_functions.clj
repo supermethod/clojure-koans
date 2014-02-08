@@ -3,7 +3,7 @@
 
 (defn square [n] (* n n))
 
-(
+(meditations
   "Calling a function is like giving it a hug with parentheses"
   (= 81 (square 9))
 
